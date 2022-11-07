@@ -33,5 +33,7 @@ public class Main {
         addmaterials secondAddmaterials = new addmaterials();
         addmaterials thirdAddmaterials = new addmaterials();
         System.out.println(addmaterials.counter);
+
+
     }
 }
