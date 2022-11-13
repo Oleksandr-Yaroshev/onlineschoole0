@@ -6,5 +6,6 @@ public class addmaterials {
 
     public addmaterials () {
         id = counter++;
+
     }
 }
