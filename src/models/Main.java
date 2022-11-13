@@ -22,6 +22,11 @@ public class Main {
         Lectures firstLecture = new Lectures();
         Lectures secondLectures = new Lectures();
         Lectures thirdLectures = new Lectures();
+        Lectures fifthLectures = new Lectures();
+        Lectures sixthLectures = new Lectures();
+        Lectures seventhLecture = new Lectures();
+
+
         System.out.println(Lectures.counter);
 
         Homeworks firstHomework = new Homeworks();
