@@ -6,25 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="341e5f73-cf3f-4e7d-a45b-2fba7e3d9093" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/first_lesson/first_task.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/first_lesson/second_task.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/models/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/models/addmaterials.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/models/addmaterials.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/models/courses.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/models/homeworks.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/models/lectures.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/models/students.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/models/teachers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/seoncd_lesson/Four_Task.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/seoncd_lesson/fifth_lesson.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/seoncd_lesson/fifth_task.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/seoncd_lesson/fourth_lesson.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/seoncd_lesson/third_task.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/services/homeworkService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/services/lecturesService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/services/studentsService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/services/teacherService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/studentsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/studentsService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
