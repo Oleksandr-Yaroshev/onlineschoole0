@@ -23,6 +23,12 @@ public class Main {
         lectures secondLectures = new lectures();
         lectures thirdLectures = new lectures();
         lectures fifthLectures = new lectures();
+        lectures sixthLectures = new lectures();
+        lectures seventhLectures = new lectures();
+        lectures eighthLectures = new lectures();
+
+
+
 
         System.out.println(lectures.counter);
 
