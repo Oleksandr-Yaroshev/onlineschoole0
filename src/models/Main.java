@@ -26,7 +26,6 @@ public class Main {
         Lectures fifthLectures = new Lectures();
         Lectures sixthLectures = new Lectures();
         Lectures seventhLecture = new Lectures();
-        Lectures ninthLecture = new Lectures();
         System.out.println(Lectures.counter);
 
 
