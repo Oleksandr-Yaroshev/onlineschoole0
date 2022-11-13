@@ -1,6 +1,6 @@
 package seoncd_lesson;
 
-public class fourth_lesson {
+public class Fourth_lesson {
     public static void main(String[] args) {
         int radius = 5;
         double pi = 3.14;

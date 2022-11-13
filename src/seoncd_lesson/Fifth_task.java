@@ -1,6 +1,6 @@
 package seoncd_lesson;
 
-public class fifth_task {
+public class Fifth_task {
     public static void main(String[] args) {
         int cov1 = 200;
         int cov2 = 1000;

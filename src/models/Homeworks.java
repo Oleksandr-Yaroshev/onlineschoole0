@@ -1,10 +1,10 @@
 package models;
 
-public class homeworks {
+public class Homeworks {
     private long id;
     public static long counter;
 
-    public homeworks () {
+    public Homeworks() {
         id = counter++;
     }
 }

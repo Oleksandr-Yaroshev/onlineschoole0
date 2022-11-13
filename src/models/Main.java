@@ -2,36 +2,36 @@ package models;
 
 public class Main {
     public static void main(String[] args) {
-        courses firstCourse = new courses ();
-        courses secondCourse = new courses ();
-        courses thirdCourse = new courses ();
-        System.out.println(courses.counter);
+        Courses firstCourse = new Courses();
+        Courses secondCourse = new Courses();
+        Courses thirdCourse = new Courses();
+        System.out.println(Courses.counter);
 
-        teachers firstTeacher = new teachers();
-        teachers secondTeacher = new teachers();
-        teachers thirdTeacher = new teachers();
-        System.out.println(teachers.counter);
+        Teachers firstTeacher = new Teachers();
+        Teachers secondTeacher = new Teachers();
+        Teachers thirdTeacher = new Teachers();
+        System.out.println(Teachers.counter);
 
-        students firstStudents = new students();
-        students secondStudents = new students();
-        students thirdStudents = new students();
-        students fifthStudents = new students();
-        students sixthStudents = new students();
-        System.out.println(students.counter);
+        Students firstStudents = new Students();
+        Students secondStudents = new Students();
+        Students thirdStudents = new Students();
+        Students fifthStudents = new Students();
+        Students sixthStudents = new Students();
+        System.out.println(Students.counter);
 
-        lectures firstLecture = new lectures();
-        lectures secondLectures = new lectures();
-        lectures thirdLectures = new lectures();
-        System.out.println(lectures.counter);
+        Lectures firstLecture = new Lectures();
+        Lectures secondLectures = new Lectures();
+        Lectures thirdLectures = new Lectures();
+        System.out.println(Lectures.counter);
 
-        homeworks firstHomework = new homeworks();
-        homeworks secondHomework = new homeworks();
-        homeworks thirdHomework = new homeworks();
-        System.out.println(homeworks.counter);
+        Homeworks firstHomework = new Homeworks();
+        Homeworks secondHomework = new Homeworks();
+        Homeworks thirdHomework = new Homeworks();
+        System.out.println(Homeworks.counter);
 
-        addmaterials firstAddmaterials = new addmaterials();
-        addmaterials secondAddmaterials = new addmaterials();
-        addmaterials thirdAddmaterials = new addmaterials();
-        System.out.println(addmaterials.counter);
+        Addmaterials firstAddmaterials = new Addmaterials();
+        Addmaterials secondAddmaterials = new Addmaterials();
+        Addmaterials thirdAddmaterials = new Addmaterials();
+        System.out.println(Addmaterials.counter);
     }
 }

@@ -1,6 +1,6 @@
 package seoncd_lesson;
 
-public class third_task {
+public class Third_task {
     public static void main(String[] args) {
         int second = 1;
         int minute = second * 60;

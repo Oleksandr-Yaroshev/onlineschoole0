@@ -1,6 +1,6 @@
 package seoncd_lesson;
 
-public class fifth_lesson {
+public class Fifth_lesson {
     public static void main(String[] args) {
         int firstVariable = 4;
         int secondVariable = 2;

@@ -1,12 +1,11 @@
 package models;
 
-public class teachers {
-    private String model;
+public class Addmaterials {
     private long id;
     public static long counter;
 
-    public teachers () {
+    public Addmaterials() {
         id = counter++;
-    }
 
+    }
 }

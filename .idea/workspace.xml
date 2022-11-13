@@ -5,7 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="341e5f73-cf3f-4e7d-a45b-2fba7e3d9093" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/first_lesson/first_task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/first_lesson/First_task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/first_lesson/second_task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/first_lesson/Second_task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/addmaterials.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Addmaterials.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/courses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Courses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/homeworks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Homeworks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/lectures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Lectures.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/students.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Students.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/teachers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Teachers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seoncd_lesson/fifth_lesson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seoncd_lesson/Fifth_lesson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seoncd_lesson/fifth_task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seoncd_lesson/Fifth_task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seoncd_lesson/fourth_lesson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seoncd_lesson/Fourth_lesson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seoncd_lesson/third_task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seoncd_lesson/Third_task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/addmaterialService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/AddmaterialService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/homeworkService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/HomeworkService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/lecturesService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/LecturesService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/studentsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/StudentsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/teacherService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/TeacherService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +82,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Teachers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="models.Teachers" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestMethodOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestMethodOne" />
       <module name="untitled" />
@@ -84,24 +115,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="teachers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="models.teachers" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="models.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.TestMethodOne" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.teachers" />
+        <item itemvalue="Application.Teachers" />
         <item itemvalue="Application.Four_Task" />
         <item itemvalue="Application.four_task" />
       </list>
