@@ -28,7 +28,7 @@ public class Main {
         Lectures seventhLecture = new Lectures();
         Lectures eightLecture = new Lectures();
         Lectures ninthLecture = new Lectures();
-
+        Lectures tenthLecture = new Lectures();
         System.out.println(Lectures.counter);
 
 
