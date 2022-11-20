@@ -6,10 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="341e5f73-cf3f-4e7d-a45b-2fba7e3d9093" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestForGit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestMethodOne.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/TeacherService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/TeacherService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/models/addmaterials.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/models/addmaterials.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Courses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Courses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Lectures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Lectures.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/AddmaterialService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/AddmaterialService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +42,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TestMethodOne">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Four_Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="seoncd_lesson.Four_Task" />
       <module name="untitled" />
@@ -81,6 +82,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestCalculate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestCalculate" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestMethodOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestMethodOne" />
       <module name="untitled" />
@@ -88,26 +96,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="four_task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seoncd_lesson.four_task" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="seoncd_lesson.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestMethodOne" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TestCalculate" />
+        <item itemvalue="Application.TestMethodOne" />
         <item itemvalue="Application.Teachers" />
         <item itemvalue="Application.Four_Task" />
-        <item itemvalue="Application.four_task" />
       </list>
     </recent_temporary>
   </component>
