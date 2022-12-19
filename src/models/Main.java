@@ -8,6 +8,8 @@ public class Main {
         Courses secondCourse = new Courses(2);
         Courses thirdCourse = new Courses(3);
         Courses seventhCourse = new Courses(7);
+        Courses fourthCourse = new Courses(4);
+        Courses fifthCourse = new Courses(5);
 
 
         System.out.println(Courses.counter);
@@ -32,6 +34,8 @@ public class Main {
         Lectures sixthLectures = new Lectures(5, secondCourse.getId());
         Lectures seventhLecture = new Lectures(6, thirdCourse.getId());
         Lectures tenthLecture = new Lectures(6, seventhCourse.Id);
+        Lectures eighth = new Lectures(7, fourthCourse.Id);
+        Lectures ninth = new Lectures(8, fifthCourse.Id);
         System.out.println(Lectures.counter);
 
 
