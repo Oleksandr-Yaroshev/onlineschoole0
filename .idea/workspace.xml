@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="341e5f73-cf3f-4e7d-a45b-2fba7e3d9093" name="Changes" comment="" />
+    <list default="true" id="341e5f73-cf3f-4e7d-a45b-2fba7e3d9093" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/services/MainForServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Lectures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Lectures.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/TeacherService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/TeacherService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +41,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.MainForServices">
     <configuration name="Four_Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="seoncd_lesson.Four_Task" />
       <module name="untitled" />
@@ -62,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Teachers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="models.Teachers" />
+    <configuration name="MainForServices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="services.MainForServices" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="models.*" />
+          <option name="PATTERN" value="services.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainForServices" />
+        <item itemvalue="Application.Four_Task" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.TestCalculate" />
         <item itemvalue="Application.TestMethodOne" />
-        <item itemvalue="Application.Teachers" />
-        <item itemvalue="Application.Four_Task" />
       </list>
     </recent_temporary>
   </component>

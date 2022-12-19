@@ -1,5 +1,7 @@
 package models;
 
+import services.MainForServices;
+
 public class Main {
     public static void main(String[] args) {
         Courses firstCourse = new Courses(1);
@@ -34,9 +36,11 @@ public class Main {
         Homeworks thirdHomework = new Homeworks();
         System.out.println(Homeworks.counter);
 
-        Addmaterials firstAddmaterials = new Addmaterials();
-        Addmaterials secondAddmaterials = new Addmaterials();
-        Addmaterials thirdAddmaterials = new Addmaterials();
-        System.out.println(Addmaterials.counter);
+        //Addmaterials firstAddmaterials = new Addmaterials();
+        //Addmaterials secondAddmaterials = new Addmaterials();
+        //Addmaterials thirdAddmaterials = new Addmaterials();
+        //System.out.println(Addmaterials.counter);//
+
+
     }
 }

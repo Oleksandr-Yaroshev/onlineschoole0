@@ -5,7 +5,7 @@ public class Lectures {
     public long courseId;
     public static long counter;
     private Homeworks homeworks;
-    private Addmaterials addmaterials;
+    //private Addmaterials addmaterials;
 
     //first variable if public
     public Lectures(long Id, long courseId) {
